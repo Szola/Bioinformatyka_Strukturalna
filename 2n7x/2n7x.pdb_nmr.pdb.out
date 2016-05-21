@@ -1,0 +1,22 @@
+PDB data file name: 2n7x.pdb_nmr.pdb
+BEGIN_base-pair
+     1_23, A:    19 G-C    41 A: +/+ cis         XIX
+     2_22, A:    20 G-C    40 A: +/+ cis         XIX
+     3_21, A:    21 U-A    39 A: -/- cis         XX
+     4_20, A:    22 A-U    38 A: -/- cis         XX
+     5_19, A:    23 G-C    37 A: +/+ cis         XIX
+     6_18, A:    24 U-U    36 A: W/W cis         XVI
+     7_17, A:    25 U-C    35 A: W/W cis         XVIII
+     8_16, A:    26 U-A    34 A: -/- cis         XX
+     9_12, A:    27 U-C    30 A: S/W tran        n/a
+     9_15, A:    27 U-G    33 A: W/W cis         XXVIII
+    20_21, A:    38 U-A    39 A:      stacked
+    13_14, A:    31 A-U    32 A: S/S cis      syn  !(s_s)
+END_base-pair
+  The total base pairs =  10 (from   23 bases)
+------------------------------------------------
+ Standard  WW--cis  WW-tran  HH--cis  HH-tran  SS--cis  SS-tran
+        6        3        0        0        0        0        0
+  WH--cis  WH-tran  WS--cis  WS-tran  HS--cis  HS-tran
+        0        0        0        1        0        0
+------------------------------------------------
