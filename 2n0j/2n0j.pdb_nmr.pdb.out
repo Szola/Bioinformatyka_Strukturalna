@@ -1,0 +1,23 @@
+PDB data file name: /home/szola/Dokumenty/Studia/Bioinformatyka_RNA/Bioinformatyka_Strukturalna/2n0j/2n0j.pdb_nmr.pdb
+BEGIN_base-pair
+     1_27, A:     1 G-C    27 A: +/+ cis         XIX
+     2_26, A:     2 G-U    26 A: W/W cis         XXVIII
+     3_25, A:     3 C-G    25 A: +/+ cis         XIX
+     4_24, A:     4 U-A    24 A: -/- cis         XX
+     5_23, A:     5 G-C    23 A: +/+ cis         XIX
+     9_22, A:     9 G-C    22 A: +/+ cis         XIX
+    11_20, A:    11 C-G    20 A: +/+ cis         XIX
+    12_19, A:    12 C-G    19 A: +/+ cis         XIX
+    13_18, A:    13 U-U    18 A: W/W cis         XVI
+    10_21, A:    10 U-U    21 A: W/W cis         !1H(b_b)
+      5_6, A:     5 G-C     6 A: S/H cis         !(s_s)
+      6_7, A:     6 C-U     7 A: S/S tran        !(s_s)
+    14_16, A:    14 U-A    16 A: S/S tran        !(s_s)
+END_base-pair
+  The total base pairs =   9 (from   27 bases)
+------------------------------------------------
+ Standard  WW--cis  WW-tran  HH--cis  HH-tran  SS--cis  SS-tran
+        7        2        0        0        0        0        0
+  WH--cis  WH-tran  WS--cis  WS-tran  HS--cis  HS-tran
+        0        0        0        0        0        0
+------------------------------------------------

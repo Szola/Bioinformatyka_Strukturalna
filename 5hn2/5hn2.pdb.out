@@ -1,0 +1,44 @@
+PDB data file name: /home/szola/Dokumenty/Studia/Bioinformatyka_RNA/Bioinformatyka_Strukturalna/5hn2/5hn2.pdb
+uncommon residue RSQ    4  on chain A [#4] assigned to: c
+uncommon residue RSQ    4  on chain B [#12] assigned to: c
+uncommon residue RSQ    4  on chain C [#20] assigned to: c
+uncommon residue RSQ    4  on chain D [#28] assigned to: c
+uncommon residue RSQ    4  on chain E [#36] assigned to: c
+uncommon residue RSQ    4  on chain F [#44] assigned to: c
+BEGIN_base-pair
+     1_16, A:     1 G-C     8 B: +/+ cis         XIX
+     2_15, A:     2 U-A     7 B: -/- cis         XX
+     3_14, A:     3 A-U     6 B: -/- cis         XX
+     4_13, A:     4 c-G     5 B: +/+ cis         XIX
+     5_12, A:     5 G-c     4 B: +/+ cis         XIX
+     6_11, A:     6 U-A     3 B: -/- cis         XX
+     7_10, A:     7 A-U     2 B: -/- cis         XX
+      8_9, A:     8 C-G     1 B: +/+ cis         XIX
+    17_32, C:     1 G-C     8 D: +/+ cis         XIX
+    18_31, C:     2 U-A     7 D: -/- cis         XX
+    19_30, C:     3 A-U     6 D: -/- cis         XX
+    20_29, C:     4 c-G     5 D: +/+ cis         XIX
+    21_28, C:     5 G-c     4 D: +/+ cis         XIX
+    22_27, C:     6 U-A     3 D: -/- cis         XX
+    23_26, C:     7 A-U     2 D: -/- cis         XX
+    24_25, C:     8 C-G     1 D: +/+ cis         XIX
+    33_48, E:     1 G-C     8 F: +/+ cis         XIX
+    34_47, E:     2 U-A     7 F: -/- cis         XX
+    35_46, E:     3 A-U     6 F: -/- cis         XX
+    36_45, E:     4 c-G     5 F: +/+ cis         XIX
+    37_44, E:     5 G-c     4 F: +/+ cis         XIX
+    38_43, E:     6 U-A     3 F: -/- cis         XX
+    39_42, E:     7 A-U     2 F: -/- cis         XX
+    40_41, E:     8 C-G     1 F: +/+ cis         XIX
+    11_44, B:     3 A-c     4 F: S/S tran        !(b_s)
+    12_27, B:     4 c-A     3 D: S/S tran        !(b_s)
+     8_24, A:     8 C-C     8 C: S/S cis         !(s_s)
+    24_40, C:     8 C-C     8 E: S/S cis         !(s_s)
+END_base-pair
+  The total base pairs =  24 (from   48 bases)
+------------------------------------------------
+ Standard  WW--cis  WW-tran  HH--cis  HH-tran  SS--cis  SS-tran
+       24        0        0        0        0        0        0
+  WH--cis  WH-tran  WS--cis  WS-tran  HS--cis  HS-tran
+        0        0        0        0        0        0
+------------------------------------------------

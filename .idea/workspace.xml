@@ -2,26 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f34afe2f-2831-4b2e-82ae-41e3ad03941d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2n7x.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/JSmol.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/JmolTracker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/colorbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/ga.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/jquery-ui-1.10.1.custom.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/jquery-ui-1.10.1.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/jquery.colorbox-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/piwik.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/saved_resource" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/saved_resource(1)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/saved_resource(2)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/saved_resource(3)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/saved_resource(4)" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/saved_resource.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ClaRNA_files/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RNAVIEW.tar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RNAVIEW/bin/2n7x.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RNAVIEW/bin/2n7x.pdb_nmr.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RNAVIEW/bin/2n7x.pdb_nmr.pdb.out" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RNAVIEW/bin/base_pair_statistics.out" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Baza oddziaływań wewnątrzcząsteczkowych.odt" afterPath="$PROJECT_DIR$/Baza oddziaływań wewnątrzcząsteczkowych.odt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program.py" afterPath="$PROJECT_DIR$/program.py" />
     </list>
     <ignored path="Bioinformatyka_Strukturalna.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,11 +32,9 @@
       <file leaf-file-name="program.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="324">
+              <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -325,7 +310,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28867623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28867623" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -359,9 +344,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -369,9 +352,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -379,9 +360,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -394,11 +381,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>

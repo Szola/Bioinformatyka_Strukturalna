@@ -1,0 +1,35 @@
+PDB data file name: /home/szola/Dokumenty/Studia/Bioinformatyka_RNA/Bioinformatyka_Strukturalna/4p3t/4p3t.pdb
+uncommon residue 5BU   11  on chain A [#11] assigned to: u
+uncommon residue 5BU   34  on chain B [#34] assigned to: u
+BEGIN_base-pair
+     3_46, A:     3 G-C    46 B: +/+ cis         XIX
+     4_45, A:     4 C-G    45 B: +/+ cis         XIX
+     5_44, A:     5 G-C    44 B: +/+ cis         XIX
+     6_43, A:     6 U-U    43 B: W/W cis         XVI
+     7_42, A:     7 C-G    42 B: +/+ cis         XIX
+     8_41, A:     8 C-A    41 B: W/W cis         n/a
+     9_39, A:     9 C-G    39 B: +/+ cis         XIX
+    10_38, A:    10 G-C    38 B: +/+ cis         XIX
+    11_37, A:    11 u-A    37 B: -/- cis         XX
+    12_36, A:    12 C-G    36 B: +/+ cis         XIX
+    13_35, A:    13 G-C    35 B: +/+ cis         XIX
+    14_34, A:    14 A-u    34 B: -/- cis         XX
+    15_33, A:    15 C-G    33 B: +/+ cis         XIX
+    16_32, A:    16 G-C    32 B: +/+ cis         XIX
+    18_31, A:    18 A-C    31 B: W/W cis         n/a
+    19_30, A:    19 G-C    30 B: +/+ cis         XIX
+    20_21, A:    20 U-C    21 A:      stacked
+    20_29, A:    20 U-U    29 B: W/W cis         XVI
+    21_28, A:    21 C-G    28 B: +/+ cis         XIX
+    22_27, A:    22 G-C    27 B: +/+ cis         XIX
+    23_26, A:    23 C-G    26 B: +/+ cis         XIX
+    31_32, B:    31 C-C    32 B:      stacked
+    17_18, A:    17 A-A    18 A: S/H cis         !(s_s)
+END_base-pair
+  The total base pairs =  20 (from   46 bases)
+------------------------------------------------
+ Standard  WW--cis  WW-tran  HH--cis  HH-tran  SS--cis  SS-tran
+       16        4        0        0        0        0        0
+  WH--cis  WH-tran  WS--cis  WS-tran  HS--cis  HS-tran
+        0        0        0        0        0        0
+------------------------------------------------

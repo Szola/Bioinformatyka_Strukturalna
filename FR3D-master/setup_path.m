@@ -1,1 +1,0 @@
-addpath FR3DSource PrecomputedData PDBFiles SearchSaveFiles;
