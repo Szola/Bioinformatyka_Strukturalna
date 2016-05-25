@@ -9,12 +9,12 @@ czy_zbadany = 0
 sc = '/home/szola/Dokumenty/Studia/Bioinformatyka_RNA/Bioinformatyka_Strukturalna/'
 
 if os.path.isfile(sc + '/' + nazwa_czast + '/MC-Ann-' + nazwa_czast):
-    czy_zbadany = 1
+    czy_zbadany = 0
 
 
 def u_prog(): # uruchamia programy RNAVIEW i MCAnnotate
     with open(sc + nazwa_czast + "/MC-Ann-" + nazwa_czast, "w") as f:
-        subprocess.run([sc + 'MC-Annotate', sc + nazwa_czast + '/' + nazwa_pliku])
+        subprocess.call([sc + 'MC-Annotate', sc + nazwa_czast + '/' + nazwa_pliku])
     subprocess.run([sc + '/RNAVIEW/bin/rnaview', sc + nazwa_czast + '/' + nazwa_pliku])
 
     #legenda wynikow:
