@@ -1,0 +1,73 @@
+BEGIN_base-pair
+  171_191, H:     3 G-C    23 H: +/+ cis         XIX
+  172_190, H:     4 G-A    22 H: S/H tran        XI
+  173_189, H:     5 G-A    21 H: S/H tran        XI
+  174_188, H:     6 A-G    20 H: H/S tran        XI
+  175_184, H:     7 G-C    16 H: +/+ cis         XIX
+  175_184,-
+171_191_172_190_173_189_174_188_175_184_0, click this line to see above pattern
+0_0,---------
+  147_167, G:     3 G-C    23 G: +/+ cis         XIX
+  148_166, G:     4 G-A    22 G: S/H tran        XI
+  149_165, G:     5 G-A    21 G: S/H tran        XI
+  150_164, G:     6 A-G    20 G: H/S tran        XI
+  151_160, G:     7 G-C    16 G: +/+ cis         XIX
+  151_160,-
+147_167_148_166_149_165_150_164_151_160_0, click this line to see above pattern
+0_0,---------
+  123_143, F:     3 G-C    23 F: +/+ cis         XIX
+  124_142, F:     4 G-A    22 F: S/H tran        XI
+  125_141, F:     5 G-A    21 F: S/H tran        XI
+  126_140, F:     6 A-G    20 F: H/S tran        XI
+  127_136, F:     7 G-C    16 F: +/+ cis         XIX
+  127_136,-
+123_143_124_142_125_141_126_140_127_136_0, click this line to see above pattern
+0_0,---------
+   99_119, E:     3 G-C    23 E: +/+ cis         XIX
+  100_118, E:     4 G-A    22 E: S/H tran        XI
+  101_117, E:     5 G-A    21 E: S/H tran        XI
+  102_116, E:     6 A-G    20 E: H/S tran        XI
+  103_112, E:     7 G-C    16 E: +/+ cis         XIX
+  103_112,-
+99_119_100_118_101_117_102_116_103_112_0, click this line to see above pattern
+0_0,---------
+    75_95, D:     3 G-C    23 D: +/+ cis         XIX
+    76_94, D:     4 G-A    22 D: S/H tran        XI
+    77_93, D:     5 G-A    21 D: S/H tran        XI
+    78_92, D:     6 A-G    20 D: H/S tran        XI
+    79_88, D:     7 G-C    16 D: +/+ cis         XIX
+    79_88,-
+75_95_76_94_77_93_78_92_79_88_0, click this line to see above pattern
+0_0,---------
+    51_71, C:     3 G-C    23 C: +/+ cis         XIX
+    52_70, C:     4 G-A    22 C: S/H tran        XI
+    53_69, C:     5 G-A    21 C: S/H tran        XI
+    54_68, C:     6 A-G    20 C: H/S tran        XI
+    55_64, C:     7 G-C    16 C: +/+ cis         XIX
+    55_64,-
+51_71_52_70_53_69_54_68_55_64_0, click this line to see above pattern
+0_0,---------
+    27_47, B:     3 G-C    23 B: +/+ cis         XIX
+    28_46, B:     4 G-A    22 B: S/H tran        XI
+    29_45, B:     5 G-A    21 B: S/H tran        XI
+    30_44, B:     6 A-G    20 B: H/S tran        XI
+    31_40, B:     7 G-C    16 B: +/+ cis         XIX
+    31_40,-
+27_47_28_46_29_45_30_44_31_40_0, click this line to see above pattern
+0_0,---------
+     3_23, A:     3 G-C    23 A: +/+ cis         XIX
+     4_22, A:     4 G-A    22 A: S/H tran        XI
+     5_21, A:     5 G-A    21 A: S/H tran        XI
+     6_20, A:     6 A-G    20 A: H/S tran        XI
+     7_16, A:     7 G-C    16 A: +/+ cis         XIX
+     7_16,-
+3_23_4_22_5_21_6_20_7_16_0, click this line to see above pattern
+0_0,---------
+    57_62, C:     9 C-G    14 C: +/+ cis         XIX
+    58_61, C:    10 G-A    13 C: S/H tran        XI
+   73_145, D:     1 U-U     1 G: H/W tran        n/a
+    74_96, D:     2 G-C    24 D: +/+ cis         XIX
+    74_96,-
+57_62_58_61_73_145_74_96_0, click this line to see above pattern
+0_0,---------
+END_base-pair

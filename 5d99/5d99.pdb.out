@@ -1,0 +1,32 @@
+PDB data file name: /home/szola/Dokumenty/Studia/Bioinformatyka_RNA/Bioinformatyka_Strukturalna/5d99/5d99.pdb
+uncommon residue OMU 2650  on chain A [#4] assigned to: u
+BEGIN_base-pair
+     2_26, A:  2648 G-U  2672 A: W/W cis         XXVIII
+     3_25, A:  2649 C-G  2671 A: +/+ cis         XIX
+     4_24, A:  2650 u-A  2670 A: -/- cis         XX
+     5_23, A:  2651 C-G  2669 A: +/+ cis         XIX
+     6_22, A:  2652 C-G  2668 A: +/+ cis         XIX
+      7_8, A:  2653 U-A  2654 A:      stacked
+     9_10, A:  2655 G-U  2656 A: S/H cis    syn    n/a
+    10_19, A:  2656 U-A  2665 A: W/H tran        XXIV
+    11_18, A:  2657 A-G  2664 A: H/S tran        XI
+    12_17, A:  2658 C-G  2663 A: +/+ cis         XIX
+    13_16, A:  2659 G-A  2662 A: S/H tran        XI
+    16_17, A:  2662 A-G  2663 A:      stacked
+    26_27, A:  2672 U-G  2673 A:      stacked
+     7_21, A:  2653 U-C  2667 A: W/W cis         !1H(b_b)
+     8_20, A:  2654 A-C  2666 A: W/H tran        !(s_s)
+     9_19, A:  2655 G-A  2665 A: W/. tran   syn    !(s_s)
+END_base-pair
+
+Summary of triplets and higher multiplets
+BEGIN_multiplets
+9_10_19_| [1 3]  A: 2655 G  +  A: 2656 U  +  A: 2665 A
+END_multiplets
+  The total base pairs =  10 (from   27 bases)
+------------------------------------------------
+ Standard  WW--cis  WW-tran  HH--cis  HH-tran  SS--cis  SS-tran
+        5        1        0        0        0        0        0
+  WH--cis  WH-tran  WS--cis  WS-tran  HS--cis  HS-tran
+        0        1        0        0        1        2
+------------------------------------------------

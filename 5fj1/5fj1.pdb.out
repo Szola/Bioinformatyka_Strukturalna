@@ -1,0 +1,101 @@
+PDB data file name: /home/szola/Dokumenty/Studia/Bioinformatyka_RNA/Bioinformatyka_Strukturalna/5fj1/5fj1.pdb
+BEGIN_base-pair
+     1_25, A:     1 U-U     1 B: W/H tran        n/a
+     2_24, A:     2 G-C    24 A: +/+ cis         XIX
+     3_23, A:     3 G-C    23 A: +/+ cis         XIX
+      4_5, A:     4 G-G     5 A:      stacked
+     4_22, A:     4 G-A    22 A: S/H tran        XI
+     5_21, A:     5 G-A    21 A: S/H tran        XI
+     6_20, A:     6 A-G    20 A: H/S tran        XI
+     7_16, A:     7 G-C    16 A: +/+ cis         XIX
+     8_15, A:     8 C-G    15 A: +/+ cis         XIX
+     9_14, A:     9 C-G    14 A: +/+ cis         XIX
+    10_13, A:    10 G-A    13 A: S/H tran        XI
+    26_48, B:     2 G-C    24 B: +/+ cis         XIX
+    27_47, B:     3 G-C    23 B: +/+ cis         XIX
+    28_29, B:     4 G-G     5 B:      stacked
+    28_46, B:     4 G-A    22 B: S/H tran        XI
+    29_45, B:     5 G-A    21 B: S/H tran        XI
+    30_44, B:     6 A-G    20 B: H/S tran        XI
+    31_40, B:     7 G-C    16 B: +/+ cis         XIX
+    32_39, B:     8 C-G    15 B: +/+ cis         XIX
+    33_38, B:     9 C-G    14 B: +/+ cis         XIX
+    34_37, B:    10 G-A    13 B: S/H tran        XI
+    50_72, C:     2 G-C    24 C: +/+ cis         XIX
+    51_71, C:     3 G-C    23 C: +/+ cis         XIX
+    52_70, C:     4 G-A    22 C: S/H tran        XI
+    53_69, C:     5 G-A    21 C: S/H tran        XI
+    54_68, C:     6 A-G    20 C: H/S tran        XI
+    55_64, C:     7 G-C    16 C: +/+ cis         XIX
+    56_63, C:     8 C-G    15 C: +/+ cis         XIX
+    57_62, C:     9 C-G    14 C: +/+ cis         XIX
+    58_61, C:    10 G-A    13 C: S/H tran        XI
+   73_145, D:     1 U-U     1 G: H/W tran        n/a
+    74_96, D:     2 G-C    24 D: +/+ cis         XIX
+    75_95, D:     3 G-C    23 D: +/+ cis         XIX
+    76_94, D:     4 G-A    22 D: S/H tran        XI
+    77_93, D:     5 G-A    21 D: S/H tran        XI
+    78_92, D:     6 A-G    20 D: H/S tran        XI
+    79_88, D:     7 G-C    16 D: +/+ cis         XIX
+    80_87, D:     8 C-G    15 D: +/+ cis         XIX
+    81_86, D:     9 C-G    14 D: +/+ cis         XIX
+    82_85, D:    10 G-A    13 D: S/H tran        XI
+   98_120, E:     2 G-C    24 E: +/+ cis         XIX
+   99_119, E:     3 G-C    23 E: +/+ cis         XIX
+  100_101, E:     4 G-G     5 E:      stacked
+  100_118, E:     4 G-A    22 E: S/H tran        XI
+  101_117, E:     5 G-A    21 E: S/H tran        XI
+  102_116, E:     6 A-G    20 E: H/S tran        XI
+  103_112, E:     7 G-C    16 E: +/+ cis         XIX
+  104_111, E:     8 C-G    15 E: +/+ cis         XIX
+  105_110, E:     9 C-G    14 E: +/+ cis         XIX
+  106_109, E:    10 G-A    13 E: S/H tran        XI
+  122_144, F:     2 G-C    24 F: +/+ cis         XIX
+  123_143, F:     3 G-C    23 F: +/+ cis         XIX
+  124_142, F:     4 G-A    22 F: S/H tran        XI
+  125_141, F:     5 G-A    21 F: S/H tran        XI
+  126_140, F:     6 A-G    20 F: H/S tran        XI
+  127_136, F:     7 G-C    16 F: +/+ cis         XIX
+  128_135, F:     8 C-G    15 F: +/+ cis         XIX
+  129_134, F:     9 C-G    14 F: +/+ cis         XIX
+  130_133, F:    10 G-A    13 F: S/H tran        XI
+  146_168, G:     2 G-C    24 G: +/+ cis         XIX
+  147_167, G:     3 G-C    23 G: +/+ cis         XIX
+  148_166, G:     4 G-A    22 G: S/H tran        XI
+  149_165, G:     5 G-A    21 G: S/H tran        XI
+  150_164, G:     6 A-G    20 G: H/S tran        XI
+  151_160, G:     7 G-C    16 G: +/+ cis         XIX
+  152_159, G:     8 C-G    15 G: +/+ cis         XIX
+  153_158, G:     9 C-G    14 G: +/+ cis         XIX
+  154_157, G:    10 G-A    13 G: S/H tran        XI
+  170_192, H:     2 G-C    24 H: +/+ cis         XIX
+  171_191, H:     3 G-C    23 H: +/+ cis         XIX
+  172_190, H:     4 G-A    22 H: S/H tran        XI
+  173_189, H:     5 G-A    21 H: S/H tran        XI
+  174_188, H:     6 A-G    20 H: H/S tran        XI
+  175_184, H:     7 G-C    16 H: +/+ cis         XIX
+  176_183, H:     8 C-G    15 H: +/+ cis         XIX
+  177_182, H:     9 C-G    14 H: +/+ cis         XIX
+  178_181, H:    10 G-A    13 H: S/H tran        XI
+     6_17, A:     6 A-G    17 A: S/S tran        !(b_s)
+    30_41, B:     6 A-G    17 B: S/S tran        !(b_s)
+    54_65, C:     6 A-G    17 C: S/S tran        !(b_s)
+  102_113, E:     6 A-G    17 E: S/S tran        !(b_s)
+  174_185, H:     6 A-G    17 H: S/S tran        !(b_s)
+     3_84, A:     3 G-A    12 D: S/S cis         !(s_s)
+    17_18, A:    17 G-A    18 A: S/W cis      syn  !(s_s)
+    41_42, B:    17 G-A    18 B: S/W cis      syn  !(s_s)
+    65_66, C:    17 G-A    18 C: S/W cis      syn  !(s_s)
+    89_90, D:    17 G-A    18 D: S/W cis      syn  !(s_s)
+  113_114, E:    17 G-A    18 E: S/W cis      syn  !(s_s)
+  137_138, F:    17 G-A    18 F: S/W cis      syn  !(s_s)
+  161_162, G:    17 G-A    18 G: S/W cis      syn  !(s_s)
+  185_186, H:    17 G-A    18 H: S/W cis      syn  !(s_s)
+END_base-pair
+  The total base pairs =  74 (from  192 bases)
+------------------------------------------------
+ Standard  WW--cis  WW-tran  HH--cis  HH-tran  SS--cis  SS-tran
+       40        0        0        0        0        0        0
+  WH--cis  WH-tran  WS--cis  WS-tran  HS--cis  HS-tran
+        0        2        0        0        0       32
+------------------------------------------------

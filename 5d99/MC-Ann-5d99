@@ -1,0 +1,243 @@
+Residue conformations -------------------------------------------
+A2647 : U C2p_endo anti
+A2648 : G C3p_endo anti
+A2649 : C C3p_endo anti
+A2650 : OMU
+A2651 : C C3p_endo anti
+A2652 : C C3p_endo anti
+A2653 : U C3p_endo anti
+A2654 : A C2p_endo anti
+A2655 : G C2p_endo syn
+A2656 : U C3p_endo anti
+A2657 : A C3p_endo anti
+A2658 : C C3p_endo anti
+A2659 : G C3p_endo anti
+A2660 : A C3p_endo anti
+A2661 : G C3p_endo anti
+A2662 : A C3p_endo anti
+A2663 : G C3p_endo anti
+A2664 : G C3p_endo anti
+A2665 : A C3p_endo anti
+A2666 : C C3p_endo anti
+A2667 : C C3p_endo anti
+A2668 : G C3p_endo anti
+A2669 : G C3p_endo anti
+A2670 : A C3p_endo anti
+A2671 : G C3p_endo anti
+A2672 : U C3p_endo anti
+A2673 : G C3p_endo anti
+A2701 : GOL
+A2801 : HOH
+A2802 : HOH
+A2803 : HOH
+A2804 : HOH
+A2805 : HOH
+A2806 : HOH
+A2807 : HOH
+A2808 : HOH
+A2809 : HOH
+A2810 : HOH
+A2811 : HOH
+A2812 : HOH
+A2813 : HOH
+A2814 : HOH
+A2815 : HOH
+A2816 : HOH
+A2817 : HOH
+A2818 : HOH
+A2819 : HOH
+A2820 : HOH
+A2821 : HOH
+A2822 : HOH
+A2823 : HOH
+A2824 : HOH
+A2825 : HOH
+A2826 : HOH
+A2827 : HOH
+A2828 : HOH
+A2829 : HOH
+A2830 : HOH
+A2831 : HOH
+A2832 : HOH
+A2833 : HOH
+A2834 : HOH
+A2835 : HOH
+A2836 : HOH
+A2837 : HOH
+A2838 : HOH
+A2839 : HOH
+A2840 : HOH
+A2841 : HOH
+A2842 : HOH
+A2843 : HOH
+A2844 : HOH
+A2845 : HOH
+A2846 : HOH
+A2847 : HOH
+A2848 : HOH
+A2849 : HOH
+A2850 : HOH
+A2851 : HOH
+A2852 : HOH
+A2853 : HOH
+A2854 : HOH
+A2855 : HOH
+A2856 : HOH
+A2857 : HOH
+A2858 : HOH
+A2859 : HOH
+A2860 : HOH
+A2861 : HOH
+A2862 : HOH
+A2863 : HOH
+A2864 : HOH
+A2865 : HOH
+A2866 : HOH
+A2867 : HOH
+A2868 : HOH
+A2869 : HOH
+A2870 : HOH
+A2871 : HOH
+A2872 : HOH
+A2873 : HOH
+A2874 : HOH
+A2875 : HOH
+A2876 : HOH
+A2877 : HOH
+A2878 : HOH
+A2879 : HOH
+A2880 : HOH
+A2881 : HOH
+A2882 : HOH
+A2883 : HOH
+A2884 : HOH
+A2885 : HOH
+A2886 : HOH
+A2887 : HOH
+A2888 : HOH
+A2889 : HOH
+A2890 : HOH
+A2891 : HOH
+A2892 : HOH
+A2893 : HOH
+A2894 : HOH
+A2895 : HOH
+A2896 : HOH
+A2897 : HOH
+A2898 : HOH
+A2899 : HOH
+A2900 : HOH
+A2901 : HOH
+A2902 : HOH
+A2903 : HOH
+A2904 : HOH
+A2905 : HOH
+A2906 : HOH
+A2907 : HOH
+A2908 : HOH
+A2909 : HOH
+A2910 : HOH
+A2911 : HOH
+A2912 : HOH
+A2913 : HOH
+A2914 : HOH
+A2915 : HOH
+A2916 : HOH
+A2917 : HOH
+A2918 : HOH
+A2919 : HOH
+A2920 : HOH
+A2921 : HOH
+A2922 : HOH
+A2923 : HOH
+A2924 : HOH
+A2925 : HOH
+A2926 : HOH
+A2927 : HOH
+A2928 : HOH
+A2929 : HOH
+A2930 : HOH
+A2931 : HOH
+A2932 : HOH
+A2933 : HOH
+A2934 : HOH
+A2935 : HOH
+A2936 : HOH
+A2937 : HOH
+A2938 : HOH
+A2939 : HOH
+A2940 : HOH
+A2941 : HOH
+A2942 : HOH
+A2943 : HOH
+A2944 : HOH
+A2945 : HOH
+A2946 : HOH
+A2947 : HOH
+A2948 : HOH
+A2949 : HOH
+A2950 : HOH
+A2951 : HOH
+A2952 : HOH
+A2953 : HOH
+A2954 : HOH
+A2955 : HOH
+A2956 : HOH
+A2957 : HOH
+A2958 : HOH
+A2959 : HOH
+A2960 : HOH
+A2961 : HOH
+A2962 : HOH
+A2963 : HOH
+A2964 : HOH
+A2965 : HOH
+A2966 : HOH
+A2967 : HOH
+A2968 : HOH
+A2969 : HOH
+A2970 : HOH
+A2971 : HOH
+A2972 : HOH
+Adjacent stackings ----------------------------------------------
+A2648-A2649 : adjacent_5p upward 
+A2651-A2652 : adjacent_5p upward 
+A2652-A2653 : adjacent_5p upward 
+A2653-A2654 : adjacent_5p inward 
+A2656-A2657 : adjacent_5p upward 
+A2657-A2658 : adjacent_5p upward 
+A2658-A2659 : adjacent_5p upward 
+A2660-A2661 : adjacent_5p upward 
+A2661-A2662 : adjacent_5p upward 
+A2663-A2664 : adjacent_5p upward 
+A2665-A2666 : adjacent_5p upward 
+A2666-A2667 : adjacent_5p upward 
+A2667-A2668 : adjacent_5p upward 
+A2668-A2669 : adjacent_5p upward 
+A2669-A2670 : adjacent_5p upward 
+A2670-A2671 : adjacent_5p upward 
+A2671-A2672 : adjacent_5p upward 
+Non-Adjacent stackings ------------------------------------------
+A2648-A2673 : outward 
+A2654-A2656 : outward 
+A2655-A2664 : inward 
+A2657-A2665 : outward 
+A2659-A2663 : outward 
+Number of stackings = 22
+Number of adjacent stackings = 17
+Number of non adjacent stackings = 5
+Base-pairs ------------------------------------------------------
+A2648-A2672 : G-U Ww/Ws pairing antiparallel cis XXVIII 
+A2649-A2671 : C-G Ww/Ww pairing antiparallel cis XIX 
+A2651-A2669 : C-G Ww/Ww pairing antiparallel cis XIX 
+A2652-A2668 : C-G Ww/Ww pairing antiparallel cis XIX 
+A2653-A2667 : U-C Ws/Wh pairing antiparallel trans one_hbond 100 
+A2654-A2666 : A-C Bh/O2P pairing 
+A2655-A2656 : G-U Sw/Hw adjacent_5p pairing parallel cis one_hbond 89 
+A2655-A2665 : G-A Ww/O2P Bs/O2P pairing 
+A2656-A2664 : U-G O2P/Ww O2P/Bs pairing 
+A2656-A2665 : U-A Ww/Hh pairing antiparallel trans XXIV 
+A2657-A2664 : A-G Hh/Ss Bh/O2' pairing antiparallel trans XI 
+A2658-A2663 : C-G Ww/Ww pairing antiparallel cis XIX 
+A2659-A2661 : G-G O2'/Hh pairing 
+A2659-A2662 : G-A Sw/Hh Bs/O2P pairing antiparallel trans one_hbond 
