@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f34afe2f-2831-4b2e-82ae-41e3ad03941d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4p3t/4p3t.brackets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4p3t/4p3t.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4p3t/4p3t.pdb.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4p3t/4p3t.pdb_patt.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4p3t/4p3t.pdb_patt_tmp.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4p3t/4p3t.pdb_sort.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/4p3t/MC-Ann-4p3t" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Baza oddziaływań wewnątrzcząsteczkowych.odt" afterPath="$PROJECT_DIR$/Baza oddziaływań wewnątrzcząsteczkowych.odt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/program.py" afterPath="$PROJECT_DIR$/program.py" />
     </list>
     <ignored path="Bioinformatyka_Strukturalna.iws" />
@@ -35,8 +26,8 @@
       <file leaf-file-name="program.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/program.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="18" column="128" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
               <folding />
             </state>
           </provider>
@@ -340,7 +331,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -410,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="18" column="128" selection-start-line="18" selection-start-column="128" selection-end-line="18" selection-end-column="128" />
           <folding />
         </state>
       </provider>

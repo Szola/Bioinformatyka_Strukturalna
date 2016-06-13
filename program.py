@@ -13,12 +13,18 @@ if os.path.isdir(sc + nazwa_czast):
 else:
     os.mkdir(sc + nazwa_czast)
 
+if os.path.isfile(sc + nazwa_czast + '/ClaRNA-' + nazwa_czast + ".txt"):
+    plikPDB = 1
+else:
+    print("Nie istenie plik wynikowy działania programu ClaRNA. Można go uruchomić na stronie http://iimcb.genesilico.pl/clarna/")
+
 if os.path.isfile(sc + nazwa_czast + '/' + nazwa_pliku):
     plikPDB = 1
 else:
     print("Nie istanieje plik " + nazwa_pliku + " konieczny do zadziałania programu.")
     print("Do folderu " + nazwa_czast + " dodaj plik " + nazwa_pliku + ". Mozna go pobrac ze strony http://www.rcsb.org/pdb/home/home.do")
     plikPDB = 0
+
 
 
 def u_prog(): # uruchamia programy RNAVIEW i MCAnnotate
