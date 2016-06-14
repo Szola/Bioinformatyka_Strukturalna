@@ -8,7 +8,7 @@ McAnnotate – uruchamiany z poziomu pythona, obsługiwany przez program
 RNAView - uruchamiany z poziomu pythona, obsługiwany przez program
 ClaRNA – uruchamiany tylko on-line, nie obsługiwany przez program
 
-Baza Damych: Skrypt dostępny w SQLServer, Oracl i DB2.
+Baza Danych: Skrypt dostępny w SQLServer, Oracl i DB2.
 
 Aby program zadziałał koniecze jest odpowiednie rozmieszczenie plików i folderów. Dla każdej badanej cząsteczki (np. 2n7x.pdb) musi istnieć osobny folder o odpowiedniej nazwie (2n7x) a w nim powinny być dwa pliki: wynik działania programu ClaRna (zapisany w formacie ‘ClaRNA-2n7x.txt’) i plik pdb z badaną cząsteczką (2n7x.pdb).
 
